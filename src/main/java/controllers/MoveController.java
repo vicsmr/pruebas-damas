@@ -11,7 +11,7 @@ public class MoveController extends Controller {
         super(game, state);
     }
 
-    public Error move(Coordinate coordinate) {
+    public Error move(Coordinate origin, Coordinate target) {
         return null;
     }
 }
