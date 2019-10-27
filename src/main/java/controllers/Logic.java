@@ -5,6 +5,7 @@ public class Logic {
     public Logic() {
     }
 
-    public void play() {
+    public Controller getController() {
+        return null;
     }
 }

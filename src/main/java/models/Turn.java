@@ -6,7 +6,6 @@ public class Turn {
     }
 
     public void changeTurn() {
-
     }
 
     public Color getColorTurn() {

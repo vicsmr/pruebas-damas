@@ -19,4 +19,11 @@ class PlayController extends AcceptController{
 	public Piece getPiece(Coordinate origin) {
 		return null;
 	}
+
+	public void cancelGame() {
+	}
+	
+	public boolean isEndGame() {
+		return false;
+	}
 }
